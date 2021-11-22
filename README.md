@@ -1,6 +1,6 @@
 # Cassava-Leaf-Disease-Detection-Kaggle-Competition-Deployment
-This repository contains an initial deployment project code for cassava leaf disease detection competition hosted on github.
-Steps to run:
+This repository contains an initial deployment project code for cassava leaf disease detection competition hosted on github.<br>
+Steps to run:<br>
 1.) Install Streamlit locally.<br>
 2.) streamlit run [path to directory]\main_app.py [ARGUMENTS]<br>
 Note: Trained Model files can be downloaded from Releases Ssection.<br>
